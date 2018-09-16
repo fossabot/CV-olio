@@ -17,6 +17,7 @@ A Jekyll template for a simple two page CV &amp; portfolio website, packed with 
 Demo site - https://cv-olio.netlify.com/cv
 
 [![Build Status](https://semaphoreci.com/api/v1/gisforgabriel/cv-olio/branches/master/badge.svg)](https://semaphoreci.com/gisforgabriel/cv-olio)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgisforgabriel%2FCV-olio.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgisforgabriel%2FCV-olio?ref=badge_shield)
 
 ## Customisation
 
@@ -63,3 +64,6 @@ Many thanks to the people behind the projects this project relies on:
 - [Muli](https://github.com/vernnobile/MuliFont) - Vernon Adams (SIL Open Font License)
 - [Entypo](https://github.com/danielbruce/entypo) - Daniel Bruce (CC BY-SA 4.0)
 - [Jekyll](https://github.com/jekyll/jekyll) - (The MIT License)
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgisforgabriel%2FCV-olio.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgisforgabriel%2FCV-olio?ref=badge_large)
